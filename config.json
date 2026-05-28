@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasestringify",
+        "uuid": 39997997,
+        "checksum": "tacu9k"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
